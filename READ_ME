@@ -1,1 +1,12 @@
 Contains project files for an Artificial Intelligence course taken at KTH Royal Institute of Technology in Stockholm Sweden, Fall of 2018.
+
+
+HMMS Directory contains implementation of different Hidden Markov algorithms increasing in comlexity from 1-3. Implenting Markov chains,
+the forward algorithm, and the Viterbi Algorithm.
+
+TICTACTOE directory contains files which implements an AI to play 4x4 tictactoe using the minimax algorithm. 
+PLEASE NOTE: as this was a class project, much of the core structure of the project was given to us while the implementation
+of the logic behind performing moves was left to us to implement and fill out. Much of the GameState was implemented already as it 
+concerned how the board looks and functions. Such methods are as follows: GameState, rowColumntoCell, at, sert, checkLine(s), and try Move.
+
+The primary logic of the game was implemented by me and a fellow student at KTH university.
